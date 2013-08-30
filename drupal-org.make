@@ -17,7 +17,7 @@ projects[markdown][subdir] = "contrib"
 projects[markdown][version] = "1.2"
 
 projects[meedjum_base][subdir] = "features"
-projects[meedjum_base][version] = "1.0-alpha1"
+projects[meedjum_base][version] = "1.0-alpha2"
 
 projects[references][subdir] = "contrib"
 projects[references][version] = "2.1"
