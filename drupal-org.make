@@ -35,5 +35,5 @@ projects[views][subdir] = "contrib"
 projects[views][version] = "3.7"
 
 ; Themes
-projects[meedjum][version] = "1.x-dev"
+projects[meedjum][version] = "1.0-alpha1"
 
