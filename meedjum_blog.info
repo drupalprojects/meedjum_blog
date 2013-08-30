@@ -37,9 +37,9 @@ dependencies[] = markdown
 ; Other
 dependencies[] = pathauto
 dependencies[] = token
-; Path management
-dependencies[] = globalredirect
 ; Views
 dependencies[] = views
 dependencies[] = views_ui
 
+; Meedjum
+dependencies[] = meedjum_base
